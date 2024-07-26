@@ -1,0 +1,55 @@
+[
+  {
+    "name": "ReactJS",
+    "icon": "https://img.icons8.com/?size=100&id=123603&format=png&color=000000"
+  },
+
+  {
+    "name": "NodeJS",
+    "icon": "https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://img.icons8.com/?size=100&id=87330&format=png&color=000000"
+  },
+  {
+    "name": "ChakraUI",
+    "icon": "https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000"
+  },
+  {
+    "name": "TailwindCSS",
+    "icon": "https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000"
+  },
+  {
+    "name": "Sass",
+    "icon": "https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000"
+  },
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000"
+  },
+  {
+    "name": "NextJs",
+    "icon": "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"
+  },
+  {
+    "name": "Shopify",
+    "icon": "https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000"
+  },
+  {
+    "name": "WordPress",
+    "icon": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000"
+  }
+]

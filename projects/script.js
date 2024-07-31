@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Anas";
+            document.title = "Projects | Portfolio Anas";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {

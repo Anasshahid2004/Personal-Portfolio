@@ -1,11 +1,11 @@
 [
   {
-    "name": "FoodPanda UI Design",
+    "name": "Vivzwear UI Design",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://www.figma.com/design/z2Y7zLBJFp58dXAyn7IUzf/VIVZ_OFFICIAL-My-App?node-id=0-1&t=5HIGwpcFaXtWJJ4X-0",
       "code": "#"
     }
   },
@@ -96,17 +96,17 @@
     "category": "basicweb",
     "links": {
       "view": "https://same-palindrome-ga-me.vercel.app/",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "code": "#"
     }
   },
   {
-    "name": "Web UI Clones",
+    "name": "Pets-Website",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
     "image": "webuiclones",
     "category": "mern",
     "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+      "view": "https://pets-website-three.vercel.app/",
+      "code": "#"
     }
   },
   {
@@ -135,8 +135,8 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "https://personal-portfolio-anasshahid.vercel.app/",
+      "code": "#"
     }
   },
   {
@@ -226,7 +226,7 @@
     "category": "android",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+      "code": "#"
     }
   },
   {

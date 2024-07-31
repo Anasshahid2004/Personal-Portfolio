@@ -6,7 +6,7 @@
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "code": "#"
     }
   },
   {
@@ -46,7 +46,7 @@
     "category": "mern",
     "links": {
       "view": "https://serene-web.vercel.app/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "code": "#"
     }
   },
   {
@@ -56,7 +56,7 @@
     "category": "mern",
     "links": {
       "view": "https://final-website-ashen.vercel.app/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "code": "#"
     }
   },
   {
@@ -66,7 +66,7 @@
     "category": "mern",
     "links": {
       "view": "https://piaic-clonepiaic-project3.vercel.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "code": "#"
     }
   },
   {
@@ -76,7 +76,7 @@
     "category": "mern",
     "links": {
       "view": "https://coaching-woad.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "code": "#"
     }
   },
   {
@@ -86,7 +86,7 @@
     "category": "lamp",
     "links": {
       "view": "https://weather-app-alpha-ivory-31.vercel.app/",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "code": "#"
     }
   },
   {
@@ -220,7 +220,7 @@
     }
   },
   {
-    "name": "Basic Banking App",
+    "name": "Banking App UI UX Design",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "basicbank",
     "category": "android",
@@ -230,13 +230,13 @@
     }
   },
   {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
+    "name": "Fitness Club",
+    "desc": "A fitness gym website with animations, payment plans and tesimonials.",
     "image": "issuetrack",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+      "view": "https://fitclub-pi.vercel.app/",
+      "code": "#"
     }
   },
   {
@@ -303,36 +303,6 @@
     "name": "Burger Shop Dummy",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
     "category": "basicweb",
     "links": {
       "view": "#",

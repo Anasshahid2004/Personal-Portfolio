@@ -90,12 +90,12 @@
     }
   },
   {
-    "name": "Palindrome Game",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Noah",
+    "desc": "NOAH built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
+    "image": "cryptotracker",
+    "category": "mern",
     "links": {
-      "view": "https://same-palindrome-ga-me.vercel.app/",
+      "view": "https://company-portfolio-nu.vercel.app/index.html",
       "code": "#"
     }
   },
@@ -106,16 +106,6 @@
     "category": "mern",
     "links": {
       "view": "https://pets-website-three.vercel.app/",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Noah",
-    "desc": "NOAH built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
-    "links": {
-      "view": "https://company-portfolio-nu.vercel.app/index.html",
       "code": "#"
     }
   },
@@ -196,6 +186,16 @@
     "category": "basicweb",
     "links": {
       "view": "https://fitclub-pi.vercel.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Palindrome Game",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "mern",
+    "links": {
+      "view": "https://same-palindrome-ga-me.vercel.app/",
       "code": "#"
     }
   },
